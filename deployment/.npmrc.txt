@@ -1,0 +1,7 @@
+registry=https://registry.npmjs.org/
+@cny-src:registry=https://pkgs.dev.azure.com/Tachyon-Systems/_packaging/cny-common/npm/registry/
+@cny-common:registry=https://pkgs.dev.azure.com/Tachyon-Systems/_packaging/cny-common/npm/registry/
+@cny-helpers:registry=https://pkgs.dev.azure.com/Tachyon-Systems/_packaging/cny-common/npm/registry/
+@cny-globalservices:registry=https://pkgs.dev.azure.com/Tachyon-Systems/_packaging/cny-common/npm/registry/
+@cny-discoveryservice:registry=https://pkgs.dev.azure.com/Tachyon-Systems/_packaging/cny-common/npm/registry/
+@cny-cdk-stack:registry=https://pkgs.dev.azure.com/Tachyon-Systems/Deployment-modules/_packaging/cny-cdk-stacks/npm/registry/ 
